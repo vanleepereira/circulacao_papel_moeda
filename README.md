@@ -49,12 +49,5 @@ Seleção dos dados entre 2020 e 2025:
 df_filtrado = df[df['data'].dt.year.between(2020, 2025)]
 
 
----
 
-## 👤 Criado por
-
-**Van Lee Pereira**  
-Relações Internacionais | Comércio Exterior | Data Analysis  
-
-[LinkedIn](https://www.linkedin.com/in/van-lee-pereira-90077b40/) 
 
