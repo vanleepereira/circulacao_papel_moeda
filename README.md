@@ -56,5 +56,5 @@ df_filtrado = df[df['data'].dt.year.between(2020, 2025)]
 **Van Lee Pereira**  
 Relações Internacionais | Comércio Exterior | Data Analysis  
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/van-lee-pereira-90077b40/?skipRedirect=true
+[LinkedIn](https://www.linkedin.com/in/van-lee-pereira-90077b40/)
+
